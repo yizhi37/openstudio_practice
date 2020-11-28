@@ -7,4 +7,4 @@ Created on Mon Nov 23 17:01:48 2020
 
 import os
 
-os.system("'openstudio' run -w './compact.osw'")
+os.system("'openstudio3' run -w './compact.osw'")
